@@ -1,2 +1,4 @@
 .DS_Store
 .ipynb_checkpoints
+models/T1W_150420_binary_adam_b5-e73-loss0.317-acc0.903.pth
+models/T1W_150420_sgd_four_class_no_prothesis_b3-e44-loss0.757-acc0.714.pth
