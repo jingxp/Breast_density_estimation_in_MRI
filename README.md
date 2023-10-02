@@ -8,5 +8,7 @@ Breast Tumors in MRI With Application to Radiogenomics," in IEEE Transactions on
 Radiomics feature extraction was performed with pyradiomics. The extraction pipe line could be found at https://github.com/Astarakee/Radiomics_pipeline.
 
 ## Deep learning models
-The deep learning models could be found at https://drive.google.com/drive/folders/1TZ4iygIOGw-gSCM3Qi8QQlD0qEwlAG0y?usp=share_link.
+The 3D model was implemented in pytorch, the original implemetation could be found at https://github.com/shijianjian/EfficientNet-PyTorch-3D
+
+The trained models could be found at https://drive.google.com/drive/folders/1TZ4iygIOGw-gSCM3Qi8QQlD0qEwlAG0y?usp=share_link.
 Please dowonlad the deep learning models and place under ./models/
